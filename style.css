@@ -1278,7 +1278,7 @@ font-size: 0.7em;
     font-size: 16px;
   }
   .whyTitle h1 {
-    font-size: 4em;
+    font-size: 2.5em;
   }
 
   /* FAQs */
@@ -1291,7 +1291,7 @@ font-size: 0.7em;
     text-align: center;
   }
   .titleFAQs h1 {
-    font-size: 3em;
+    font-size: 2em;
   }
 
   /* TESTIMONY */
@@ -1299,6 +1299,7 @@ font-size: 0.7em;
     display: grid;
     height: 1500px;
     width: 85%;
+    margin-right: 1.5em;
     grid-template-columns: 350px 350px 350px; /* Three columns for larger tablets */
     grid-template-rows: 80px repeat(3, 400px);
     grid-column-gap: 2em;
